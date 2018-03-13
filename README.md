@@ -12,7 +12,7 @@ Repository for example codes used in the Mobile System Programming class
 - (그림으로 쉽게 설명하는) 안드로이드 프로그래밍, 천인국, 생능출판
 - 이것이 안드로이드다 (박성근의 안드로이드 앱 프로그래밍), 박성근, 한빛미디어
 
-### Development Environment
+### Development environments
 - JDK: http://www.oracle.com/technetwork/java/javase/downloads/index.html
 - Android Studio: https://developer.android.com/studio/index.html
 - Git: https://git-scm.com/

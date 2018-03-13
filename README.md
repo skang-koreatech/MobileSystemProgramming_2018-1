@@ -1,7 +1,9 @@
-# MobileSystemProgramming_2018-1
+# MobileSystemProgramming 2018-1
+(코리아텍 컴퓨터공학부 4학년 1학기 모바일시스템프로그래밍)
+
 Repository for example codes used in the Mobile System Programming class 
 
-(코리아텍 컴퓨터공학부 모바일시스템프로그래밍)
+
 
 
 ### Reference books
